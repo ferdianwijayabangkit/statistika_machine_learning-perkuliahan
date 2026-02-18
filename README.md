@@ -11,7 +11,7 @@ Pusat sumber daya digital resmi untuk mata kuliah Statistika Machine Learning di
 
 Akses kumpulan literatur, buku teks, dan materi pendukung lainnya melalui tautan di bawah ini:
 
-**[Buka Kumpulan Ebook & Referensi](https://untirtaacid-my.sharepoint.com/my?id=%2Fpersonal%2Fferdian%5Fbangkit%5Funtirta%5Fac%5Fid%2FDocuments%2FUNTIRTA%2Febook%2FStatistical%20Machine%20Learning&ga=1)**
+**[Buka Kumpulan Ebook & Referensi](https://untirtaacid-my.sharepoint.com/:f:/g/personal/ferdian_bangkit_untirta_ac_id/IgCuASqeaA9BRKynwloAD5RIAX8zgGRLym6dFH7Y4UYPmVw?e=Sod60q)**
 
 ## ✨ Isi Repositori
 
